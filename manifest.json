@@ -1,0 +1,16 @@
+{
+  "id": "./yoddha_full_app_final.html",
+  "name": "যোদ্ধা | YODDHA Management",
+  "short_name": "যোদ্ধা",
+  "description": "YODDHA Rider and Parcel Management",
+  "lang": "bn-BD",
+  "start_url": "./yoddha_full_app_final.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1428",
+  "theme_color": "#0b1428",
+  "icons": [
+    {"src": "./yoddha-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
